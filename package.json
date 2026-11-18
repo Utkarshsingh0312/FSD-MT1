@@ -1,0 +1,16 @@
+{
+  "name": "event-registration-api",
+  "version": "1.0.0",
+  "description": "Event Registration Management REST API using Node.js and Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": ["express", "rest-api", "event-registration", "fsd"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
